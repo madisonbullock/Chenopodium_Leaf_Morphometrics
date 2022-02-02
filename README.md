@@ -13,8 +13,8 @@ This respository is comprised of the R code and data used in the analysis of lan
 * Chitwood, D. H., & Otoni, W. C. (2017b). Divergent leaf shapes among Passiflora species arise from a shared juvenile morphology. Plant Direct, 1(5), e00028. <https://doi.org/10.1002/pld3.28>
   * Github: Same as above
 
-## Data ##
-Spreadsheets for data on all leaves collected in the designated week. 
+## _Chenopodium oahuense_ Master Spreadsheet ##
+A file containing all samples and data collected over the course of the study. 
 
 ## R Code ##
 Annontated R files in the order that was used in these analyses.
