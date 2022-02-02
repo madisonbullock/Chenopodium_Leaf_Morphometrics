@@ -14,7 +14,7 @@ This respository is comprised of the R code and data used in the analysis of lan
   * Github: Same as above
 
 ## Data ##
-This folder contains spreadsheets for data on all leaves collected in the designated week. 
+Spreadsheets for data on all leaves collected in the designated week. 
 
 ## R Code ##
-This folder contains the annontated R files. They are numbered in the order that was used in these analyses.
+Annontated R files in the order that was used in these analyses.
