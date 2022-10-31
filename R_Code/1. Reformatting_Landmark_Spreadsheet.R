@@ -22,8 +22,6 @@ for(j in c(1:overall.length)) {
   overall.table[j,4:5] <- sub.data[2, 2:3]
   overall.table[j,6:7] <- sub.data[3, 2:3]
   overall.table[j,8:9] <- sub.data[4, 2:3]
-  overall.table[j,8:9] <- sub.data[4, 2:3]
-  overall.table[j,8:9] <- sub.data[4, 2:3]
 
 }
 
